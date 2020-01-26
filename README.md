@@ -1,6 +1,6 @@
 This lesson gave me knowledge on something methods javascript
 Now I know what the following methods mean
-
+--------------
 .font
 .fillStyle
 .pop();
