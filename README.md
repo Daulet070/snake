@@ -23,3 +23,4 @@ setInterval();
 
 clearInterval();  
 
+https://daulet070.github.io/snake/
